@@ -2,7 +2,6 @@ import pandas as pd
 import numpy as np
 from matplotlib import pyplot as plt
 from sklearn import datasets
-from sklearn.linear_model import LogisticRegression
 import warnings
 warnings.filterwarnings('ignore')
 
